@@ -1,11 +1,122 @@
 <style>
+    .desktop{
+        margin: 1300px;
+        text-align: center;
+    }    
+#body{
+        display: flex;
+        justify-content: center;
+        width: 1300px;
+        height: 3524px;
+        top: 200px;
+        left: 70px;
+        gap: 0px;
+        opacity: 0px;
+        
+
+
+    }    
+    #button{
+        width: Fixed (251px)px;
+        height: Fixed (56px)px;
+        padding: 16px 0px 0px 0px;
+        gap: 16px;
+        border-radius: 67px 0px 0px 0px;
+        opacity: 0px;
+        color: background: rgba(40, 94, 103, 1));
+
+
+    }
+    
     .header{
         display: flex;
+        content: center;
+        
         
     }
     .h1{
         align-content: center;
+        text-align: center;
     }
 
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+    }
     
+    .seccion2 {
+    
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        box-sizing: border-box;
+
+    }
+    
+    .desktop{
+        width: 1300px;
+        
+    }
+    
+    header .logo a {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 24px;
+    }
+    
+    nav a {
+        list-style: none;
+        padding: 0;
+    }
+    
+    nav a {
+        display: inline;
+        margin: 0 15px;
+    }
+    
+    nav a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+    
+    
+    
+   
+    
+    .seccion3 {
+        
+        
+        justify-content: space-between;
+        padding: 20px 0;
+        box-sizing: border-box;
+    }
+    
+    
+    
+    .img {
+        flex: 1;
+    }
+    
+    .seccion3 {
+        display: flex;
+        align-items: center;
+        margin: 20px 0;
+    }
+    
+    .icon {
+        margin-right: 10px;
+    }
+    
+    footer {
+        background: #35424a;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px 0;
+    }
+    .img{
+        left: 324px;
+    }
 </style>
